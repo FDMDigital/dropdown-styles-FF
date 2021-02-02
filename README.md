@@ -10,13 +10,11 @@ To create these styles we need to take a similar approach to how we [re-styled t
 
 **Note i**: It’s worth pointing out at this stage that by hiding the `<select>` element and replacing it with a custom `<div>` we are losing the accessibility options that come with using a standard dropdown so if user accessibility is it a priority then these styles are probably not for you.
 
-**Note ii**: It’s also worth highlighting at this stage that these styles work well with basic dropdown fields but do NOT currently work with any of the following field or form options and will require additional development if you want to use any of these features:
+**Note ii**: It’s also worth highlighting at this stage that these styles work well with basic dropdown fields but do NOT currently work with any of the following field options and will require additional development if you want to use any of these features:
 
 * Read only
 * Multiselect
 * Autocomplete
-* Multipage forms
-
 
 ### How to use these style
 
