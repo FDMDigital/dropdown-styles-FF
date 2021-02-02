@@ -118,3 +118,7 @@ Which style you choose may depend on the content of your dropdown field. For exa
 This works really well for short / medium lists but won’t work very well for really long lists like Countries or States as it will take a really long time for them to finish animating in.
 
 So choose wisely!
+
+### Vanilla JS & jQuery
+
+Although 2 of the files (`classie.js` and `selectFx.js`) are written in vanilla JS the file `fancy-select.js` contains a mixture of vanilla JS and jQuery so you WILL need jQuery installed for this to function correctly. There are more and more WordPress themes now that don't include jQuery by default so bear this in mind. 
