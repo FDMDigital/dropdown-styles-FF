@@ -51,6 +51,8 @@ The 4 style classes are:
 * cs-skin-elastic
 * cs-skin-rotate
 
+![Screenshot 1](https://www.fdmdigital.co.uk/wp-content/uploads/2021/01/Fancy-dropdown-2.png)
+
 ### Step 3
 
 * Scroll down to the **After Fields** section of the form and add the style sheets and scripts below.
