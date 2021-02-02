@@ -58,10 +58,10 @@ The 4 style classes are:
 
 ```
 <!-- Basic styles - this must be included -->
-<link rel="stylesheet" type="text/css" href="/wp-content/fdm-digital/fancy-select/css/cs-select.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-select.css">
 
 <!-- Underline style - optional -->
-<link rel="stylesheet" type="text/css" href="/wp-content/fdm-digital/fancy-select/css/cs-skin-underline.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-skin-underline.css">
 
 <!-- Border style - optional -->
 <link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-skin-border.css">
@@ -85,10 +85,10 @@ E.g.
 
 ```
 <!-- Basic styles - this must be included -->
-<link rel="stylesheet" type="text/css" href="/wp-content/fdm-digital/fancy-select/css/cs-select.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-select.css">
 
 <!-- Underline style - optional -->
-<link rel="stylesheet" type="text/css" href="/wp-content/fdm-digital/fancy-select/css/cs-skin-underline.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-skin-underline.css">
 
 <!-- Fancy Select Scripts - these must be included -->
 <script src="/your-directory/fancy-select/js/classie.js"></script>
