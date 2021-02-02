@@ -6,7 +6,7 @@ These fancy dropdown fields have all been created using the standard [Formidable
 
 So if you fancy trying some dropdown field styling lets jump in…
 
-To view w working demo of these styles [click here](https://www.fdmdigital.co.uk/dropdown-field-styling-formidable-forms/).
+To view a working demo of these styles [click here](https://www.fdmdigital.co.uk/dropdown-field-styling-formidable-forms/).
 
 To create these styles we need to take a similar approach to how we [re-styled the Checkboxes and Radio buttons](https://www.fdmdigital.co.uk/formidable-forms-radio-checkbox-tutorial/) in our previous guide. Essentially what we’ll do is hide the default `<select>` element, copy each of the options from it and create a selection of new `<div>` elements using some JavaScript which then gives us full control over the styling and animations.
 
