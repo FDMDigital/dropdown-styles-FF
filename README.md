@@ -2,7 +2,7 @@
 
 <h2>Dropdown Field Styling – Formidable Forms</h2>
 
-Dropdown fields are a staple of any form that requires the user to make a selection. Often a much better choice than radio buttons, as they take up a lot less space in your form, dropdowns (or <select> elements) are used millions of times a day.
+<p>Dropdown fields are a staple of any form that requires the user to make a selection. Often a much better choice than radio buttons, as they take up a lot less space in your form, dropdowns (or <select> elements) are used millions of times a day.</p>
 
 But like radio buttons and checkboxes, default dropdown fields are generally styled by the browser and can be difficult to re-style to fit your sites branding & design style. But that doesn’t mean you can’t re-style them, it just requires a bit of work.
 
