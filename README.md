@@ -26,12 +26,28 @@ To get started with these styles you will need to download the zip file below, u
 
 One you have the files uploaded to your server you can continue with the steps below.
 
-### Step 1:
+### Step 1
 
-1 Add a dropdown field to your form
-2 Add the class “custom-select” to the Field Options > CSS Layout Classes
-3 Save the form
+* Add a dropdown field to your form
+* Add the class **custom-select** to the Field Options > CSS Layout Classes
+* Save the form
 
 **Info**: We use the class custom-select to automatically set the z-index levels of the dropdowns and form sections on your page to make sure that the dropdown menus always appear on top of all other content when clicked.
 
 ![Screenshot 1](https://www.fdmdigital.co.uk/wp-content/uploads/2021/01/Fancy-dropdown-1.png)
+
+### Step 2
+
+* Go to form Settings > Customise HTML
+* Find your dropdown field and look for the `[input]` shortcode
+* Replace the shortcode with this: `<div>[input class=”cs-select cs-skin-underline”]</div>`
+
+**Note**: The class cs-select must kept in place in place regardless of the style you choose but the class cs-skin-underline can be changed to whichever style you want to use. We also need to wrap the `[input]` shortcode in a `<div>` to make sure that the field description div is still added in the correct place in the dom if you decide to use it.
+
+The 4 style classes are:
+
+* cs-skin-underline
+* cs-skin-border
+* cs-skin-elastic
+* cs-skin-rotate
+
