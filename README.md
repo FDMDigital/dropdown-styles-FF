@@ -4,9 +4,9 @@
 
 <p>Dropdown fields are a staple of any form that requires the user to make a selection. Often a much better choice than radio buttons, as they take up a lot less space in your form, dropdowns (or <select> elements) are used millions of times a day.</p>
 
-But like radio buttons and checkboxes, default dropdown fields are generally styled by the browser and can be difficult to re-style to fit your sites branding & design style. But that doesn’t mean you can’t re-style them, it just requires a bit of work.
+<p>But like radio buttons and checkboxes, default dropdown fields are generally styled by the browser and can be difficult to re-style to fit your sites branding & design style. But that doesn’t mean you can’t re-style them, it just requires a bit of work.</p>
 
-These fancy dropdown fields have all been created using the standard Formidable Forms dropdown field element and then re-styled based on a post by Mary Lou on Codrops. So if you fancy trying some dropdown field styling lets jump in…
+<p>These fancy dropdown fields have all been created using the standard Formidable Forms dropdown field element and then re-styled based on a post by Mary Lou on Codrops. So if you fancy trying some dropdown field styling lets jump in…</p>
 
 <h3>About Dropdown Field Styling</h3>
 
@@ -16,11 +16,12 @@ Note i: It’s worth pointing out at this stage that by hiding the <select> elem
 
 Note ii: It’s also worth highlighting at this stage that these styles work well with basic dropdown fields but do NOT currently work with any of the following field or form options and will require additional development if you want to use any of these features:
 
-    Read only
-    Multiselect
-    Autocomplete
-    Multipage forms
-
+<ul>
+    <li>Read only</li>
+    <li>Multiselect</li>
+    <li>Autocomplete</li>
+    <li>Multipage forms</li>
+</ul>
 
 <h3>How to use these style #</h3>
 
