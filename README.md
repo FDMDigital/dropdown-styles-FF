@@ -1,6 +1,6 @@
 # Dropdown Styles - Formidable Forms
 
-These fancy dropdown fields have all been created using the standard [Formidable Forms](https://formidableforms.com/) dropdown field element and then re-styled based on a post by [Mary Lou on Codrops](https://tympanus.net/codrops/2014/07/10/inspiration-for-custom-select-elements/). 
+These fancy dropdown fields have all been created using the standard [Formidable Forms](https://formidableforms.com/) dropdown field element and then re-styled using [SelectInspiration](https://github.com/codrops/SelectInspiration). 
 
 So if you fancy trying some dropdown field styling lets jump in…
 
@@ -121,4 +121,8 @@ So choose wisely!
 
 ### Vanilla JS & jQuery
 
-Although 2 of the files (`classie.js` and `selectFx.js`) are written in vanilla JS the file `fancy-select.js` contains a mixture of vanilla JS and jQuery so you WILL need jQuery installed for this to function correctly. There are more and more WordPress themes now that don't include jQuery by default so bear this in mind. 
+Although 2 of the files (`classie.js` and `selectFx.js`) are written in vanilla JS the file `fancy-select.js` contains a mixture of vanilla JS and jQuery so you WILL need jQuery installed for this to function correctly. There are more and more WordPress themes now that don't include jQuery by default so bear this in mind.
+
+### Credits
+
+[SelectInspiration](https://github.com/codrops/SelectInspiration)
