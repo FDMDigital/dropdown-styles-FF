@@ -86,7 +86,7 @@ E.g.
 <link rel="stylesheet" type="text/css" href="/your-directory/dropdown-styles-FF-main/css/cs-select.css">
 
 <!-- Underline style - optional -->
-<link rel="stylesheet" type="text/css" href="/your-directory/fdropdown-styles-FF-main/css/cs-skin-underline.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/dropdown-styles-FF-main/css/cs-skin-underline.css">
 
 <!-- Fancy Select Scripts - these must be included -->
 <script src="/your-directory/dropdown-styles-FF-main/js/classie.js"></script>
