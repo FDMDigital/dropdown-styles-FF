@@ -56,24 +56,24 @@ The 4 style classes are:
 
 ```
 <!-- Basic styles - this must be included -->
-<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-select.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/dropdown-styles-FF-main/css/cs-select.css">
 
 <!-- Underline style - optional -->
-<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-skin-underline.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/dropdown-styles-FF-main/css/cs-skin-underline.css">
 
 <!-- Border style - optional -->
-<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-skin-border.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/dropdown-styles-FF-main/css/cs-skin-border.css">
 
 <!-- Elastic style - optional -->
-<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-skin-elastic.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/dropdown-styles-FF-main/css/cs-skin-elastic.css">
 
 <!-- Rotate style - optional -->
-<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-skin-rotate.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/dropdown-styles-FF-main/css/cs-skin-rotate.css">
 
 <!-- Fancy Select Scripts - these must be included -->
-<script src="/your-directory/fancy-select/js/classie.js"></script>
-<script src="/your-directory/fancy-select/js/selectFx.js"></script>
-<script src="/your-directory/fancy-select/js/fancy-select.js"></script>
+<script src="/your-directory/dropdown-styles-FF-main/js/classie.js"></script>
+<script src="/your-directory/dropdown-styles-FF-main/js/selectFx.js"></script>
+<script src="/your-directory/dropdown-styles-FF-main/js/fancy-select.js"></script>
 ```
 **Note**: You do NOT need to add all 4 optional styles unless you plan on using all 4 in the same form. Simply pick the one that matches the class you added to your dropdown field.
 
@@ -83,15 +83,15 @@ E.g.
 
 ```
 <!-- Basic styles - this must be included -->
-<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-select.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/dropdown-styles-FF-main/css/cs-select.css">
 
 <!-- Underline style - optional -->
-<link rel="stylesheet" type="text/css" href="/your-directory/fancy-select/css/cs-skin-underline.css">
+<link rel="stylesheet" type="text/css" href="/your-directory/fdropdown-styles-FF-main/css/cs-skin-underline.css">
 
 <!-- Fancy Select Scripts - these must be included -->
-<script src="/your-directory/fancy-select/js/classie.js"></script>
-<script src="/your-directory/fancy-select/js/selectFx.js"></script>
-<script src="/your-directory/fancy-select/js/fancy-select.js"></script>
+<script src="/your-directory/dropdown-styles-FF-main/js/classie.js"></script>
+<script src="/your-directory/dropdown-styles-FF-main/js/selectFx.js"></script>
+<script src="/your-directory/dropdown-styles-FF-main/js/fancy-select.js"></script>
 ```
 ![Screenshot 2](https://www.fdmdigital.co.uk/wp-content/uploads/2021/01/Fancy-dropdown-3.png)
 
