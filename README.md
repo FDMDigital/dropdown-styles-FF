@@ -18,9 +18,9 @@ To create these styles we need to take a similar approach to how we [re-styled t
 
 ### How to use these style
 
-To get started with these styles you will need to download the zip file below, unzip it and then upload the folder to your web-server. We tend to put all of our custom styling & scripts in the wp-content folder in a sub-folder but where you put them is up to you.
+To get started with these styles you will need to download the zip by clicking **Code > Download Zip**, unzip it and then upload the folder (called dropdown-styles-FF-main) to your web-server. We tend to put all of our custom styling & scripts in the wp-content folder and then in a sub-folder but where you put them is up to you.
 
-One you have the files uploaded to your server you can continue with the steps below.
+Once you have the files uploaded to your server you can continue with the steps below.
 
 ### Step 1
 
