@@ -26,3 +26,7 @@ jQuery(document).ready(function($){
     	});
 	});	
 });
+
+jQuery(document).on('click', '.frm-show-form .cs-select', function(){
+  jQuery(".cs-select").closest( "select" ).change();
+});
